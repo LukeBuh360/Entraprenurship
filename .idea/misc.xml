@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Entra/Entraprenurship/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3225" />
+        <entry key="..\:/Entra/Entraprenurship/app/src/main/res/drawable/logo.xml" value="0.3225" />
+        <entry key="..\:/Entra/Entraprenurship/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Entra/Entraprenurship/app/src/main/res/layout/activity_main.xml" value="0.35597826086956524" />
         <entry key="..\:/Entra/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Entra/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
       </map>
